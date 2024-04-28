@@ -1,0 +1,4 @@
+﻿codename;trame;mass_surf;is_compat_interior_wall;mesh_height;mesh_width;roll_pallet;color_names
+variant_x;T2 Ra1 M2 E2;3;true;5;4;;dark
+variant_y;T2 Ra1 M4 E2;1;1;1;1;1;red,blue,green
+variant_z;T2 Ra1 M4 E3;2;false;10;10;10;orange,yellow
